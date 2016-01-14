@@ -13,5 +13,11 @@ int main()
 	cout << "Hello This is C++" << endl;
 	//Same as System.out.println("Some text");
 
+	int temp;
+
+	cin >> temp;
+
+	cout << temp;
+
 	return 0;
 }
