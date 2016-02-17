@@ -10,14 +10,14 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello This is C++" << endl;
+	cout << "Hello. This is C++" << endl;
 	//Same as System.out.println("Some text");
 
-	int temp;
+	string temp;
 
 	cin >> temp;
 
-	cout << temp;
+	cout << temp << endl;
 
 	return 0;
 }
